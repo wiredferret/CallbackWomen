@@ -1,6 +1,12 @@
-Programming conferences, here are some good starting points for you:
+---
+layout:   default
+title:    "\"Who do you suggest we reach out to?\""
+categories:
 
-===
+---
+
+
+Programming conferences, here are some good starting points for you:
 
 ##  Groups for Women Who Are Programmers
 
@@ -29,8 +35,10 @@ Provides ongoing training, mentorships, practice sessions, and workshops on abst
 Announces CFPs
 
 #### Systers
-[@systers_org](http://twitter.com/systers) | 
-[website](http://anitaborg.org/initiatives/systers/)| 
+[@systers_org](http://twitter.com/systers) |
+
+[website](http://anitaborg.org/initiatives/systers/)|
+
 [list maintainer](systers-keeper@systers.org) |
 3000+ members
 
@@ -40,7 +48,8 @@ Announces CFPs
 #### BridgeFoundry
 [@bridgefoundry](http://twitter.com/bridgefoundry) | The non-profit parent organization of [RailsBridge](http://railsbridge.org). Creates and/or supports broad base of organizations whose mission is diversity in tech.
 
-====
+
+---
 
 ## Women Who Are Speakers & IT Professionals
 
@@ -49,13 +58,10 @@ Announces CFPs
 Based at python.org, but is enthusiastically language/community agnostic. Connects speakers, mentors, and conference organizers. Welcomes all genders.
 
 
-====
-# _"Who do you suggest we reach out to?"_
-
-Some good starting points for conference organizers:
+---
 
 
-## Tech Women's Conferences
+## Tech Women Conferences
 
 #### Grace Hopper Celebration
 Annual conference of more than 4000 programmers who are women. Hundreds of speakers overall. Check out previous years' abstracts, videos, etc.
@@ -65,28 +71,35 @@ Annual conference of more than 4000 programmers who are women. Hundreds of speak
 Unconference of geek women from a diverse array of technological fields, and women doing technology within non-technical fields.
 
 #### Write. Speak. Code.
-[@WriteSpeakCode](http://twitter.com/writespeakcode) | 
+[@WriteSpeakCode](http://twitter.com/writespeakcode) |
+
 [email](mailto:info@writespeakcode)
 Professional development conference for women developers by women developers. Empowering ourselves and each other to become thought leaders, conference speakers, & open source contributors.
 
 
-====
+---
 
-## Directories of Tech<sup>*</sup> Speakers Who Are Women
-( * not necessarily programming )
+## Twitter Lists
+[Estelle Weyl's](https://twitter.com/estellevw/lists)
 
-[Articulate Network > Technology Category](http://articulate-network.lanyrd.com/speakers/technology/)
+[RailsBridge's](https://twitter.com/railsbridge/lists)
 
-[Articulate Network > Mobile Category](http://articulate-network.lanyrd.com/speakers/mobile/)
+[Carina C. Zona's](https://twitter.com/cczona/lists)
+
+[Jennifer Arguello's](https://twitter.com/engijen/lists)
+
+
+---
+
+## Directories of Tech Speakers Who Are Women
+_(not necessarily programming)_
 
 [GeekFeminism list of women who have been tech conference keynote speakers](http://geekfeminism.wikia.com/wiki/List_of_women_keynote_presenters_at_technical_conferences)
 
-[http://www.devchix.com/devchix-speakers/](http://www.devchix.com/devchix-speakers)
+[DevChix Speakers](http://www.devchix.com/devchix-speakers)
 
-[https://twitter.com/estellevw/lists](https://twitter.com/estellevw/lists)
+Articulate Network > [Technology Category](http://articulate-network.lanyrd.com/speakers/technology/)
 
-[https://twitter.com/railsbridge/lists](https://twitter.com/railsbridge/lists)
+Articulate Network > [Mobile Category](http://articulate-network.lanyrd.com/speakers/mobile/)
 
-[https://twitter.com/cczona/lists](https://twitter.com/cczona/lists)
 
-[https://twitter.com/engijen/lists](https://twitter.com/engijen/lists)
