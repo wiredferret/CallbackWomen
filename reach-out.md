@@ -16,8 +16,8 @@ Programming conferences, here are some good starting points for you:
 Submit CFP and additional information for mailing list members, to  [info@devchix.com](mailto:info@devchix.com). A letter is good.
 
 #### Women Who Code
-[@womenwhocode](http://twitter.com/womenwhocode) | 
-[website](http://womenwhocode.com) | 
+[@womenwhocode](http://twitter.com/womenwhocode) |
+[website](http://womenwhocode.com) |
 5,400+ members in USA, Israel, Ireland, India, Mexico
 
 #### PyLadies
@@ -54,7 +54,8 @@ Announces CFPs
 ## Women Who Are Speakers & IT Professionals
 
 #### Speak Up
-[Speak Up!](http://speakup.io/) | 
+[Speak Up!](http://speakup.io/) |
+
 Based at python.org, but is enthusiastically language/community agnostic. Connects speakers, mentors, and conference organizers. Welcomes all genders.
 
 
