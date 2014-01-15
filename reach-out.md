@@ -1,8 +1,6 @@
 ---
 layout:   default
 title:    "\"Who do you suggest we reach out to?\""
-categories:
-
 ---
 
 
