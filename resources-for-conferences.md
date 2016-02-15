@@ -1,12 +1,14 @@
 ---
 layout:   default
-title:    "\"Who do you suggest we reach out to?\""
+title:    Tech Women
 ---
 
+# "Where are tech women?"
 
-Programming conferences, here are some good starting points for you:
+##  Professional Programmers
 
-##  Groups for Women Who Are Programmers
+### CallbackWomen
+[@callbackwomen](http://twitter.com/callbackwomen) | Code women who are tech speakers. Programming conferences, shout out with your CFP (Call for Proposals) when you're looking for code women to callback to it.
 
 #### DevChix
 [@devchix](http://twitter.com/devchix) |
@@ -40,22 +42,6 @@ Announces CFPs
 [list maintainer](systers-keeper@systers.org) |
 3000+ members
 
-#### CallbackWomen
-[@callbackwomen](http://twitter.com/callbackwomen) | Code women who are tech speakers. Programming conferences, shout out with your CFP (Call for Proposals) when you're looking for code women to callback to it.
-
-#### BridgeFoundry
-[@bridgefoundry](http://twitter.com/bridgefoundry) | The non-profit parent organization of [RailsBridge](http://railsbridge.org). Creates and/or supports broad base of organizations whose mission is diversity in tech.
-
-
----
-
-## Women Who Are Speakers & IT Professionals
-
-#### Speak Up
-[Speak Up!](http://speakup.io/) |
-
-Based at python.org, but is enthusiastically language/community agnostic. Connects speakers, mentors, and conference organizers. Welcomes all genders.
-
 
 ---
 
@@ -74,31 +60,3 @@ Unconference of geek women from a diverse array of technological fields, and wom
 
 [email](mailto:info@writespeakcode)
 Professional development conference for women developers by women developers. Empowering ourselves and each other to become thought leaders, conference speakers, & open source contributors.
-
-
----
-
-## Twitter Lists
-[Estelle Weyl's](https://twitter.com/estellevw/lists)
-
-[RailsBridge's](https://twitter.com/railsbridge/lists)
-
-[Carina C. Zona's](https://twitter.com/cczona/lists)
-
-[Jennifer Arguello's](https://twitter.com/engijen/lists)
-
-
----
-
-## Directories of Tech Speakers Who Are Women
-_(not necessarily programming)_
-
-[GeekFeminism list of women who have been tech conference keynote speakers](http://geekfeminism.wikia.com/wiki/List_of_women_keynote_presenters_at_technical_conferences)
-
-[DevChix Speakers](http://www.devchix.com/devchix-speakers)
-
-Articulate Network > [Technology Category](http://articulate-network.lanyrd.com/speakers/technology/)
-
-Articulate Network > [Mobile Category](http://articulate-network.lanyrd.com/speakers/mobile/)
-
-

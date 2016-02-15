@@ -16,31 +16,48 @@
   <body>
     <div id="container">
       <div class="inner">
-
-        {% include header-page.html %}
-
-        <hr/>
-
-        <section id="main_content">
-
+<section id="main_content">
+        
           <article>
             <header>
-              <h1>{{ page.title }}</h1>
+
+				<section id="branding">
+				
+				    <h1><a href="home.html">CallbackWomen</a></h1>
+				
+            	    <a href="home.html"><img class="logo" style="border: 1px solid grey; width: 40%; background-color: white;" src="images/callbackwomen-logo.png" alt="image of CallbackWomen logo" title="CallbackWomen" /></a>
+            	            	
+            	</section> 
+            	
             </header>
+                       
             <section>
+                   <h1>{{ page.title }}</h1>
+
+<!--                        	<a href="https://app.moonclerk.com/pay/2v9p7q9ekoh" style="float: right; clear: right"><img alt="Donate" src="https://s3.amazonaws.com/moonclerk/buttons/donate.png" /></a>
+-->
               {{ content }}
             </section>
+            
+            	<section>
+            	<p align="center"><em>Do you like what CallbackWomen is doing?</em></p>
+
+          	 <p align="center"><a href="https://app.moonclerk.com/pay/2v9p7q9ekoh"><img alt="Donate" src="https://s3.amazonaws.com/moonclerk/buttons/donate.png" /></a></p>
+            </section>
+
           </article>
 
-        </section>
+<hr/>
+				<section>
+	        	 {% include navigation.html %}
+	         </section>
+	        
+	         <section>
+	         </section>
 
-        <hr/>
 
-        {% include nav.html %}
-
-        {% include tweet-cfps-to-cb.html %}
-
-        {% include tip-please.html %}
+</section>
+          
 
         {% include footer.html %}
 

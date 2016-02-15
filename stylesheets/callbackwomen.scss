@@ -1,0 +1,16 @@
+/* ---
+---*/
+
+@import 'bootstrap';
+
+/* CUSTOMIZATIONS */
+
+nav
+ {
+column-count:4;
+-moz-column-count:4;
+-webkit-column-count: 4;
+column-width: 20em;
+
+color: purple !important;
+}

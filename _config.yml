@@ -4,7 +4,11 @@ baseurl:      /
 url:          http://localhost:4000
 source:       .
 destination:  ./_site
-plugins:      ./_plugins
+plugins_dir:  ./_plugins
 future:       true
 markdown:     kramdown
 permalink:    date
+sass:
+    sass_dir: _sass
+gems:
+  - jekyll-bootstrap-sass
