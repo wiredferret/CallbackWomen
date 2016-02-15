@@ -1,0 +1,27 @@
+#nav
+{
+  font-size: 100%;
+}
+
+#nav ul
+{
+  font-size: 90%;
+}
+
+#nav td 
+{
+  text-align: left;
+  vertical-align: top;
+}
+
+
+#nav p
+{
+  margin-bottom: 0;
+}
+
+#nav li
+{
+  list-style: none;
+  padding-left: 0;
+}
