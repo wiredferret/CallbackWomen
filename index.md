@@ -49,7 +49,7 @@ CallbackWomen focus is on serving organizers and speakers. The testimonials page
 
 `Gender non-binary` encompasses people who are genderqueer, gender non-conforming, and others [^1]. **CallbackWomen is absolutely intended to promote  gender non-binary speakers.** Being non-consensually positioned in a context called `*Women` implictly misgenders that person. The project's policy is to promote talks of gender non-binary people *who have given personal consent* to doing that.
 
-[^1]: http://itspronouncedmetrosexual.com/2013/01/a-comprehensive-list-of-lgbtq-term-definitions/
+[^1]: More info: http://itspronouncedmetrosexual.com/2013/01/a-comprehensive-list-of-lgbtq-term-definitions/
 
 
 
