@@ -8,7 +8,7 @@ layout: default
 
 The mission of [CallbackWomen](http://twitter.com/callbackwomen) is to radically expand gender diversity at the podium of professional programmers' conferences.
 
-CallbackWomen **remakes norms**. Since 2013, CallbackWomen's work of advocacy, education, support, and promotion has been an influential change agent,
+CallbackWomen **remakes norms**. Since 2013, CallbackWomen's work of advocacy, education, support, and promotion has been an influential change agent.
 
 
 ## What We Do
