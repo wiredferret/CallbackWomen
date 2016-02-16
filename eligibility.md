@@ -1,6 +1,6 @@
 ---
 layout:   default
-title:    "Conference Criteria"
+title:    "Conference Eligibility"
 ---
 
 
