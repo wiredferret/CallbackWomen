@@ -1,5 +1,5 @@
 ---
-title:  "Speaking Opportunities & Resources"
+title:  "Resources for Speakers"
 layout: default
 ---
 
