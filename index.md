@@ -13,7 +13,7 @@ CallbackWomen **remakes norms**. Since 2013, CallbackWomen's work of advocacy, e
 
 ## What We Do
 
-CallbackWomen focus is on serving organizers and speakers. The testimonials page shares individual stories of its impact, from the perspectives of [a long-time conference organizer](testimonials.html) and [an emerging speaker](testimonials.html#speaker).
+CallbackWomen focus is on serving organizers and speakers. The testimonials page shares individual stories of its impact, from the perspectives of [a long-time conference organizer](personal-stories.html) and [speakers](personal-stories.html#speakers).
 
 ### Organizers
 
