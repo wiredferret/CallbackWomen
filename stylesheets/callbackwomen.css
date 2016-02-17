@@ -3,9 +3,9 @@ body
     font-size: .95em;
 }
 
-#inner
+.inner
 {
-    width: 80%;
+    width: 75%;
 }
 
 #branding
