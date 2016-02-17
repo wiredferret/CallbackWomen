@@ -23,6 +23,32 @@ body
     width: 65%;
 }
 
+#toc
+{
+    font-size: .8em;
+    border: 1px solid grey;
+    padding: 1em;
+    padding-left: 1em;
+    margin-bottom: 3em;
+    width: auto;
+}
+
+#toc h2
+{
+    font-size: .8em;
+}
+
+#toc ul
+{
+    margin: 0;
+}
+
+#toc ul li
+{
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
 /* GOOD TO HERE */
 
 #sidebar
