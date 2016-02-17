@@ -1,5 +1,51 @@
-#nav
+body
 {
+    font-size: .95em;
+}
+
+#inner
+{
+    width: 80%;
+}
+
+#branding
+{
+    text-align: center;
+    border: 1px solid grey;
+    background-color: white;
+    margin: 2em 0 2em 0;
+    padding: 2.5em;
+}
+
+#page-primary-content
+{
+    float: left;
+    width: 65%;
+}
+
+/* GOOD TO HERE */
+
+#sidebar
+{
+    float: right;
+    width: 30% !important;
+    padding-top: 1em;
+    padding-right: 1em;
+}
+
+#twitter-feed
+{
+/*  DO NOT TRY TO STYLE THIS ELEMENT OR ITS CHILDREN. JUST DON'T  */
+}
+
+#page-primary-content h1
+{
+    font-size: 2.5em;
+}
+
+nav
+{
+    clear: both !important;
     font-size: 100%;
 }
 
@@ -40,7 +86,7 @@
 
 .footnotes
 {
-  font-size: 85%
+  font-size: 85%;
 }
 
 .footnotes ol
@@ -54,9 +100,9 @@
   list-style: decimal;
 }
 
-.icon-twitter
+h2, h3, h4, h5, h6
 {
-
+    margin-bottom: 0;
 }
 
 /*superscripts*/

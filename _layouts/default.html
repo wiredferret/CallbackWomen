@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <head>
+    
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <link href="https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css">
@@ -12,56 +13,47 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <title>@CallbackWomen</title>
-  </head>
+</head>
 
-  <body>
+<body>
     <div id="container">
-      <div class="inner">
-<section id="main_content">
-        
-          <article>
-            <header>
+        <div class="inner">
+            <section id="main_content">
+                <header id="branding">
+                    <a href="home.html">
+                        <img id="logo" alt="CallbackWomen" title="CallbackWomen" src="images/callbackwomen-logo-wide-large.png">
+                        </a>
+                </header>
 
-				      <section id="branding" style="text-align: center">
+                <article id="page-primary-content">
+                    <h1>
+                    {{ page.title }}
+                    </h1>
+                    
+                    {{ content }}
+                </article>
 
-            	    <a href="home.html">
+                <aside id="sidebar">
+                    <section id="donate">
+                        <p align="center">
+                            <a href="donate.html"><img alt="Donate" src="https://s3.amazonaws.com/moonclerk/buttons/donate.png" /></a>
+                        </p>
+                    </section>
 
-                    <img class="logo" style="margin: 0 0 2em 0; padding: 2.5em; border: 1px solid grey; background-color: white;" src="images/callbackwomen-logo-wide-large.png" alt="CallbackWomen" title="CallbackWomen 1" />
+                    <section id="twitter-feed">
+<!--
+                        <a href="http://twitter.com/callbackwomen"><strong>Follow @callbackwomen</strong></a>
+                            <img src="images/icons/twitter-24.png"
+-->
+                        {% include twitter-feed.html %}
+                    </section>
 
-                  </a>
-            	            	
-            	</section> 
-            	
-            </header>
-                       
-            <section>
-                   <h1>{{ page.title }}</h1>
-
-              {{ content }}
+                    <nav>
+                <hr/> {% include navigation.html %}
+            </nav>
+                </aside>
             </section>
-            
-<hr/>
-
-            <section>
-               <p align="center"><em>Do you like what CallbackWomen is doing?</em></p>
-
-          	   <p align="center"><a href="donate.html"><img alt="Donate" src="https://s3.amazonaws.com/moonclerk/buttons/donate.png" /></a></p>
-            </section>
-
-          </article>
-
-<hr/>
-				<section>
-	        	 {% include navigation.html %}
-	         </section>
-	        
-	         <section>
-	         </section>
-
-
-</section>
-          
-      </div>
+        </div>
     </div>
-  </body>
+</body>
 </html>

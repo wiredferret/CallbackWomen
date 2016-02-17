@@ -19,10 +19,17 @@ On behalf on JSConf EU and all the other events I advise, I’d like to express 
 
 ---
 
-## Speaker
+## Speakers
 
-*By a woman who has requested anonymity:*
+{:#heidi}
+### Heidi Waterhouse
 
+"CallbackWomen has given me more than just a place to watch for friendly conferences, it's given me a community of other women who are **advocating for the same things I am: a spot at the speaker's podium, payment for my work, respect for my emotional labor**.
+
+When I go to a conference, my odds are good that I will find another member of our loose affiliation to talk to and connect with. I only started speaking three years ago, but even in that time, I feel like conferences have accepted more women speakers, and done more to support and promote speakers from under-represented groups."
+
+{:anonymous}
+### Anonymous Woman
 "It's hard to put into words my positive experience with all the great action that CallbackWomen has done to me and for community, in general. I may not be brief; my apologies if your time is short.
 
 #### Background History
