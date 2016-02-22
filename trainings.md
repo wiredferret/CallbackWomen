@@ -4,7 +4,12 @@ title:    "Events"
 ---
 
 
-## Workshop
+{::options toc_levels="2..2" /}
+* toc
+{:toc}
+
+
+## Workshops
 
 ### "Proposing Your First Tech Conference Talk"
 
@@ -24,8 +29,7 @@ When giving this [workshop at Girl Develop It Raleigh](http://www.meetup.com/Gir
 It's a delight afterward to here from women announcing that they put in their first proposal immediately after the workshop. Score!
 
 
-## Be a Workshop Sponsor
-Expanding the workshop to a full day would make it possible to give attendees more individualized coaching on conference targeting and writing abstracts. Those are crucial takeaways.
+#### Be a Workshop Sponsor!
 
 Expanding the workshop makes it possible to give attendees more individualized coaching on conference targeting and writing abstracts. These are crucial takeaways. **To sponsor a CallbackWomen workshop, ping via [Twitter](https://twitter.com/callbackwomen) or [email](callbackwomen@gmail.com).** 
 
@@ -36,12 +40,12 @@ People of all genders are welcome at CallbackWomen workshops. It's terrific to s
 
 ### "Proposing Your First Tech Conference Talk"
 
-The workshop's PART 1 given as a standalone talk/Q&A.
+An adaptation of the workshop's part 1, given instead as a standalone talk/Q&A.
 
 * [Girl Develop It](www.meetup.com/Girl-Develop-It-Chicago-IL/events/184039012/) Chicago
 * [RailsGirls](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/events/223571001/) Wellington
 * [PyLadies](http://www.meetup.com/PyLadies-ATX/events/225068177/) Austin
 
-### Speakers Panels
+## Speakers Panels
 
 Moderated discussion with a different panel of 5-6 women each time. Panelists have a range of conference speaking experience levels and roles. Previous panels have included high-demand keynoters, conference organizers, emerging speakers, etc. The panelists, along with several additional experienced speakers, give informal mentorship to breakout groups at the end of the evening.
