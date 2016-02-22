@@ -27,7 +27,7 @@ It's a delight afterward to here from women announcing that they put in their fi
 ## Be a Workshop Sponsor
 Expanding the workshop to a full day would make it possible to give attendees more individualized coaching on conference targeting and writing abstracts. Those are crucial takeaways.
 
-To sponsor a CallbackWomen workshop, ping me [on Twitter](https://twitter.com/cczona) or [via email](cczona@gmail.com). 
+Expanding the workshop makes it possible to give attendees more individualized coaching on conference targeting and writing abstracts. These are crucial takeaways. **To sponsor a CallbackWomen workshop, ping via [Twitter](https://twitter.com/callbackwomen) or [email](callbackwomen@gmail.com).** 
 
 People of all genders are welcome at CallbackWomen workshops. It's terrific to see cis men attend as guest of an enthusistic participant who is another gender. 
 
