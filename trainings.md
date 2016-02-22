@@ -4,7 +4,7 @@ title:    "Events"
 ---
 
 
-## Workshops
+## Workshop
 
 ### "Proposing Your First Tech Conference Talk"
 
