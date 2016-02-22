@@ -42,4 +42,6 @@ The workshop's PART 1 given as a standalone talk/Q&A.
 * [RailsGirls](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/events/223571001/) Wellington
 * [PyLadies](http://www.meetup.com/PyLadies-ATX/events/225068177/) Austin
 
+### Speakers Panels
 
+Moderated discussion with a different panel of 5-6 women each time. Panelists have a range of conference speaking experience levels and roles. Previous panels have included high-demand keynoters, conference organizers, emerging speakers, etc. The panelists, along with several additional experienced speakers, give informal mentorship to breakout groups at the end of the evening.
