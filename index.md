@@ -17,7 +17,7 @@ CallbackWomen focus is on serving organizers and speakers. The testimonials page
 
 ### Organizers
 
-* Providing them an audience of 4,400 followers eager to learn about their Calls for Proposals (CFPs) and diversity initiatives
+* Providing them an audience of 4,500 followers eager to learn about their Calls for Proposals (CFPs) and diversity initiatives
 * Introducing them to resources & experts
 * Educating them about how caregiving responsibilies, pay gap, safety, intersectionality, etc constrain marginalized people's participation
 * Advocating for innovative ways to increase diversity among attendees
