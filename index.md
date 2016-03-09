@@ -6,7 +6,8 @@ layout: default
 
 ## Mission
 
-The mission of [CallbackWomen](http://twitter.com/callbackwomen) is to radically expand gender diversity at the podium of professional programmers' conferences.
+The mission of [CallbackWomen](http://twitter.com/callbackwomen) is to radically expand gender diversity at the podium of professional programmers' conferences. It's about [**all** genders underrepresented in tech](#underrepresented), including non-binary, gender nonconforming, trans women, trans men, cis women, and more.
+
 
 CallbackWomen **remakes norms**. Since 2013, CallbackWomen's work of advocacy, education, support, and promotion has been an influential change agent.
 
@@ -43,11 +44,12 @@ CallbackWomen focus is on serving organizers and speakers. The testimonials page
 
 
 
-## Note
+## Note {#underrepresented}
 
-`Women` encompasses all women, including cis and transgender.
+CallbackWomen is about every person whose gender is underrepresented in tech. `Women` encompasses all women, including transgender women and cis women. `Gender non-binary` encompasses people who are genderqueer, gender non-conforming, and many others [^1]. `Transgender men` are men.
 
-`Gender non-binary` encompasses people who are genderqueer, gender non-conforming, and others [^1]. **CallbackWomen is absolutely intended to promote  gender non-binary speakers.** Being non-consensually positioned in a context called `*Women` implictly misgenders that person. The project's policy is to promote talks of gender non-binary people *who have given personal consent* to doing that.
+Being non-consensually positioned in a context called `*Women` implictly misgenders a gender non-binary person or a trans man. CallbackWomen enthusiastically promotes the work of speakers who are gender non-binary and speakers who are trans men, *if the speaker has given personal consent to*.
+
 
 [^1]: More info: http://itspronouncedmetrosexual.com/2013/01/a-comprehensive-list-of-lgbtq-term-definitions/
 
