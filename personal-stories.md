@@ -5,6 +5,7 @@ title:    "Personal Stories"
 
 {::options parse_block_html="true" /}
 
+<!--
 <div id="toc">
 
 ## Contents
@@ -12,12 +13,28 @@ title:    "Personal Stories"
 *   [Heidi Waterhouse](#heidi-waterhouse), speaker
 *   [Anonymous Woman](#anonymous-woman). speaker
 </div>
+-->
 
 *How has CallbackWomen impacted you? [Email](callbackwomen@gmail.com) to share your story too.*
 
-## Conference Organizer 
+{::options toc_levels="2..3" /}
+* toc
+{:toc}
 
-### Jan Lehnardt
+
+### Heidi Waterhouse, speaker
+
+"CallbackWomen has given me more than just a place to watch for friendly conferences, it's given me a community of other women who are **advocating for the same things I am: a spot at the speaker's podium, payment for my work, respect for my emotional labor**.
+
+When I go to a conference, my odds are good that I will find another member of our loose affiliation to talk to and connect with. I only started speaking three years ago, but even in that time, I feel like conferences have accepted more women speakers, and done more to support and promote speakers from under-represented groups."
+
+
+### Lacey Williams Henschel, speaker & organizer
+
+"As a new speaker, CallbackWomen was instrumental in helping me find speaking opportunities at **conferences that would provide mentorship, help me financially, and support me** in other ways. As a conference organizer for DjangoCon US, I've relied on CallbackWomen to help us spread the word about our CFP and our commitment to **recruiting diverse and intersectional talks from new speakers**. CallbackWomen has helped my conference establish itself as a welcoming and friendly place for women speakers."
+
+
+### Jan Lehnardt, organizer
 
 "I am a co-organiser of the yearly and immensely popular conference JSConf EU in Berlin, Germany. I am an advisor to other events in the JSConf series of events, including, but not limited to JSConf US, JSUnConf EU, JSConf Budapest, WebRebels, and JSConf Iceland. I’m also informally advising many other tech events, from small user groups to larger events. One of the aspects my advice is usually requested for is diversity and inclusion. I’m not an expert, but over the years have put in the time to read up on the topic from the now multitude of great online resources and by gaining first-hand experience running small and large events.
 
@@ -29,17 +46,8 @@ On behalf on JSConf EU and all the other events I advise, I’d like to express 
 
 **CallbackWomen is an invaluable addition to our industry and the amount of positive change and personal opportunity it has created is unmeasurable.**"
 
----
 
-## Speakers
-
-### Heidi Waterhouse
-
-"CallbackWomen has given me more than just a place to watch for friendly conferences, it's given me a community of other women who are **advocating for the same things I am: a spot at the speaker's podium, payment for my work, respect for my emotional labor**.
-
-When I go to a conference, my odds are good that I will find another member of our loose affiliation to talk to and connect with. I only started speaking three years ago, but even in that time, I feel like conferences have accepted more women speakers, and done more to support and promote speakers from under-represented groups."
-
-### Anonymous Woman
+### Anonymous Woman, speaker
 "It's hard to put into words my positive experience with all the great action that CallbackWomen has done to me and for community, in general. I may not be brief; my apologies if your time is short.
 
 #### Background History
