@@ -23,10 +23,9 @@ CallbackWomen focus is on serving organizers and speakers. The testimonials page
 * Educating them about how caregiving responsibilies, pay gap, safety, intersectionality, etc constrain marginalized people's participation
 * Advocating for innovative ways to increase diversity among attendees
 * Pushing back on assumptions about gender, experience, and qualifications
-* Displaying how their peers communicate & enforce codes of conduct
 * Amplifing their fellow conference organizers' diversity and diversity commitments, models, and successes
-* Supporting adoption of codes of conduct (CoCs), and showing how their peers are handling CoC violations
 * Educating them about the [Code of Conduct Pledge](http://twitter.com/cocpledge)'s impact on sponsorship, ticket sales, volunteerism, and speaker participation
+* Supporting them in adopting codes of conduct (CoCs), and showing conference organizers handling CoC enforcement well
 * Normalizing expectations of gender diversity at the podium
 * Exposing them to highly qualified speakers who are women, as well as (*upon individuals' permission*) genderqueer & gender non-conforming
 
