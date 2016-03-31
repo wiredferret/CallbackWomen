@@ -26,7 +26,9 @@ title:    "Personal Stories"
 
 "CallbackWomen has given me more than just a place to watch for friendly conferences, it's given me a community of other women who are **advocating for the same things I am: a spot at the speaker's podium, payment for my work, respect for my emotional labor**.
 
-When I go to a conference, my odds are good that I will find another member of our loose affiliation to talk to and connect with. I only started speaking three years ago, but even in that time, I feel like conferences have accepted more women speakers, and done more to support and promote speakers from under-represented groups."
+When I go to a conference, my odds are good that I will find another member of our loose affiliation to talk to and connect with. I only started speaking three years ago, but even in that time, I feel like conferences have accepted more women speakers, and done more to support and promote speakers from under-represented groups. 
+
+CallbackWomen has moved the standard. Instead of scrambling for 'diversity' speakers after a conference is organized, conference runners are soliciting and inviting women and under-represented people during the CFP. I see so many more CFPs that say, "We encourage first time speakers." or "If you are an under-represented person, we really want your proposal." There's even an increase in the number of conferences offering coaching and assistance with writing the proposal, which is very welcoming to people who are new at conference speaking."
 
 
 ### Lacey Williams Henschel, speaker & organizer
